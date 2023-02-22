@@ -3,4 +3,6 @@ fileignoreconfig:
   checksum: a6f7250fd8a56feefbf99c274e14b7af48764f9cffeb1d9dbf9fe809b1e31b8a
 - filename: .github/workflows/complete-workflow.yml
   checksum: 31ed1d1ad6f2f8d78727a069d1ff4ec883f39394e96354af591ccf3ee3cf5dfa
+- filename: UI_reachable.png
+  checksum: ef1d475ead5f052b64344d8540f58c15022772660d7e8ea31ddf40f8ee5253e9
 version: ""
