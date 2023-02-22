@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: buildspec.yml
+  checksum: a6f7250fd8a56feefbf99c274e14b7af48764f9cffeb1d9dbf9fe809b1e31b8a
+- filename: .github/workflows/complete-workflow.yml
+  checksum: 31ed1d1ad6f2f8d78727a069d1ff4ec883f39394e96354af591ccf3ee3cf5dfa
+version: ""
